@@ -1,0 +1,30 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@ssh.code.roche.com:spex/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@ssh.code.roche.com:spex/backend.git
+[submodule "common"]
+	path = common
+	url = git@ssh.code.roche.com:spex/common.git
+[submodule "microservices/ms-omero-sessions"]
+	path = microservices/ms-omero-sessions
+	url = git@ssh.code.roche.com:spex/microservices/ms-omero-sessions.git
+[submodule "microservices/ms-pipeline-manager"]
+	path = microservices/ms-pipeline-manager
+	url = git@ssh.code.roche.com:spex/microservices/ms-pipeline-manager.git
+[submodule "microservices/ms-omero-image-downloader"]
+	path = microservices/ms-omero-image-downloader
+	url = git@ssh.code.roche.com:spex/microservices/ms-omero-image-downloader.git
+[submodule "microservices/ms-job-manager"]
+	path = microservices/ms-job-manager
+	url = git@ssh.code.roche.com:spex/microservices/ms-job-manager.git
+[submodule "scripts/segmentation"]
+	path = scripts/segmentation
+	url = git@ssh.code.roche.com:spex/scripts/segmentation.git
+[submodule "scripts/spatial_transcriptomics"]
+	path = scripts/spatial_transcriptomics
+	url = git@ssh.code.roche.com:spex/scripts/spatial_transcriptomics.git
+[submodule "scripts/clustering"]
+	path = scripts/clustering
+	url = git@ssh.code.roche.com:spex/scripts/clustering.git
