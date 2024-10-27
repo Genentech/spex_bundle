@@ -1,0 +1,9 @@
+*.local
+/__pycache__
+*.pyc
+*.pyo
+/.idea/
+/*.gitignore
+./scripts/clusters/.gitignore
+/scripts/clusters/.idea/.gitignore
+/scripts/clusters/.idea/vcs.xml

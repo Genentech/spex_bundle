@@ -1,0 +1,2 @@
+FROM arangodb:3.7.7
+EXPOSE 8529
